@@ -1,3 +1,4 @@
+# ___ means you must supply text to make the script run.
 # Pull csv files from data mart.
 # Read  files pulled from Data Mart.
 
